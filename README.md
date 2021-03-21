@@ -1,8 +1,8 @@
 <p id="header"><p>
 <table><tr>
-<td> <a href="https://github.com/emjose/form-validation/#header"><img src="Assets/header-left.png" alt="previous" style="width: 200px;"/></a> </td>
-<td> <a href=#header><img src="Assets/header-center.png" alt="100 days of code" style="width: 580px;"/></a> </td>
-<td> <a href="https://github.com/emjose/video-scroll-one/#header"><img src="Assets/header-right.png" alt="next" style="width: 200px;"/></a> </td>
+<td> <a href="https://github.com/emjose/form-validation/#header"><img src="assets/header-left.png" alt="previous" style="width: 200px;"/></a> </td>
+<td> <a href=#header><img src="assets/header-center.png" alt="100 days of code" style="width: 580px;"/></a> </td>
+<td> <a href="https://github.com/emjose/video-scroll-one/#header"><img src="assets/header-right.png" alt="next" style="width: 200px;"/></a> </td>
 </tr></table>
 
 <br>
@@ -13,7 +13,7 @@
 
 <br>
 
-<a href="https://emjose.github.io/">![Parallax Background](Assets/preview-015-parallax-background.png)</a> 
+<a href="https://emjose.github.io/">![Parallax Background](assets/preview-015-parallax-background.png)</a> 
 
 #
 
@@ -33,7 +33,7 @@
 
 <a href=#table-of-contents>![#100DaysOfCode](assets/inter-100hash.png)</a>  
 
-<a href=#100days>![under construction](Assets/lorem-text.png)</a>
+<a href=#100days>![under construction](assets/lorem-text.png)</a>
 
 #
 
@@ -41,7 +41,7 @@
 
 <a href=#table-of-contents>![Installation](assets/inter-installation.png)</a>
 
-<a href=#installation>![under construction](Assets/lorem-text.png)</a>
+<a href=#installation>![under construction](assets/lorem-text.png)</a>
 
 #
 
@@ -49,7 +49,7 @@
 
 <a href=#table-of-contents>![Demos](assets/inter-demo.png)</a>  
 
-<a href=#demo>![under construction](Assets/lorem-text.png)</a>
+<a href=#demo>![under construction](assets/lorem-text.png)</a>
 
 #
 
@@ -57,7 +57,7 @@
 
 <a href=#table-of-contents>![Demos](assets/inter-resources.png)</a>  
 
-<a href=#resources>![under construction](Assets/lorem-text.png)</a>
+<a href=#resources>![under construction](assets/lorem-text.png)</a>
 
 #
 
