@@ -13,7 +13,7 @@
 
 <br>
 
-<a href="https://emjose.github.io/">![Parallax Background](assets/preview-015-parallax-background.png)</a> 
+<a href="https://emjose.github.io/parallax-background/">![Parallax Background](assets/preview-015-parallax-background.png)</a> 
 
 #
 
@@ -41,7 +41,14 @@
 
 <a href=#table-of-contents>![Installation](assets/inter-installation.png)</a>
 
-<a href=#installation>![under construction](assets/lorem-text.png)</a>
+#### Git clone and cd into the repo folder:
+``` 
+git clone git@github.com:emjose/parallax-background.git && cd parallax-background 
+```
+#### Run the command:
+```
+open index.html
+```
 
 #
 
@@ -49,7 +56,7 @@
 
 <a href=#table-of-contents>![Demos](assets/inter-demo.png)</a>  
 
-<a href=#demo>![under construction](assets/lorem-text.png)</a>
+<a href="https://emjose.github.io/parallax-background/">![under construction](assets/lorem-demo.png)</a>
 
 #
 
@@ -69,7 +76,4 @@
 
 #
 
-<a href=#header>![Back to Top](assets/inter-congrats.png)</a> 
-
-
-
+<a href=#header>![Back to Top](assets/inter-congrats.png)</a>
