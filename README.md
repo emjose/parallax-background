@@ -26,6 +26,7 @@
 - [Installation](#installation) 
 - [Live Site](#live-site)
 - [Resources](#resources)
+- [Copyright](#copyright)
 - [Let's Connect!](#lets-connect) 
 
 #
@@ -34,7 +35,10 @@
 
 <a href=#100days>![#100DaysOfCode](assets/inter-100hash.png)</a>  
 
-<a href=#100days>![Under Construction](assets/lorem-text.png)</a>
+### Day 15: February 21, 2021
+- I made a parallax mouse mouse effect for Day 15, and it uses the <a href="http://matthew.wagerfield.com/parallax/">Parallax.js</a> engine.
+
+- The parallax effect features the character Beatrix Kiddo/The Bride from the film <a href="https://www.miramax.com/movie/kill-bill-volume-i/">Kill Bill</a>. Beatrix is portrayed by the actress Uma Thurman.
 
 #
 
@@ -57,7 +61,7 @@ open index.html
 
 <a href="https://emjose.github.io/parallax-background/">![Live Site](assets/inter-live-site.png)</a>  
 
-<a href="https://emjose.github.io/parallax-background/">![Under Construction](assets/lorem-live.png)</a>
+<a href="https://emjose.github.io/parallax-background/">![Live Site](assets/015-killbill.gif)</a>
 
 #
 
@@ -65,7 +69,23 @@ open index.html
 
 <a href=#resources>![Resources](assets/inter-resources.png)</a>  
 
-<a href=#resources>![Under Construction](assets/lorem-text.png)</a>
+- #### [Background Parallax Effect Tutorial](https://youtu.be/_qQf1F1daSA) by [Animation Coding](https://www.youtube.com/channel/UCnzIhXjOKIOgB3nIdOKJshQ)
+
+- #### [Parallax.js](http://matthew.wagerfield.com/parallax/) by [Matthew Wagerfield](https://github.com/wagerfield)
+
+- #### [Parallax.js on Github](https://github.com/wagerfield/parallax)
+
+- #### [Google Fonts](https://fonts.google.com/)
+
+#
+
+<p id="copyright"><p>
+
+<a href=#copyright>![Copyright](Assets/inter-copyright.png)</a>
+
+- This project is for made for educational purposes only. 
+  
+- All Kill Bill images and characters are copyright of <a href="https://www.miramax.com/">MIRAMAX</a>. © MIRAMAX. All Rights Reserved.
 
 #
 
