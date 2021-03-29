@@ -81,7 +81,7 @@ open index.html
 
 <p id="copyright"><p>
 
-<a href=#copyright>![Copyright](Assets/inter-copyright.png)</a>
+<a href=#copyright>![Copyright](assets/inter-copyright.png)</a>
 
 - This project is for made for educational purposes only. 
   
