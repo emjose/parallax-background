@@ -38,7 +38,7 @@
 ### Day 15: February 21, 2021
 - I made a parallax mouse mouse effect for Day 15, and it uses the <a href="http://matthew.wagerfield.com/parallax/">Parallax.js</a> engine.
 
-- The parallax effect features the character Beatrix Kiddo/The Bride from the film <a href="https://www.miramax.com/movie/kill-bill-volume-i/">Kill Bill</a>. Beatrix is portrayed by the actress Uma Thurman.
+- The parallax effect features the character Beatrix Kiddo/The Bride from the film <a href="https://www.miramax.com/movie/kill-bill-volume-i/">Kill Bill</a>. Beatrix is portrayed by the actress <a href="https://www.imdb.com/name/nm0000235/">Uma Thurman</a>.
 
 #
 
