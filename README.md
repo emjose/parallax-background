@@ -10,35 +10,36 @@
 
 <p id="project-title"><p>
 
-<a href=#table-of-contents>![Parallax Background](assets/inter-015-parallax-background.png)</a> 
+<a href=#table-of-contents>![Parallax Background](assets/inter-015-parallax-background.png)</a>
 
 <br>
 
-<a href="https://emjose.github.io/parallax-background/">![Parallax Background](assets/preview-015-parallax-background.png)</a> 
+<a href="https://emjose.github.io/parallax-background/">![Parallax Background](assets/preview-015-parallax-background.png)</a>
 
 #
 
 <p id="table-of-contents"><p>
 
-<a href=#table-of-contents>![Table of Contents](assets/inter-toc.png)</a>  
+<a href=#table-of-contents>![Table of Contents](assets/inter-toc.png)</a>
 
-- [100 Days of Code](#100days)
-- [Installation](#installation) 
-- [Live Site](#live-site)
-- [Resources](#resources)
-- [Copyright](#copyright)
-- [Let's Connect!](#lets-connect) 
+-   [100 Days of Code](#100days)
+-   [Installation](#installation)
+-   [Live Site](#live-site)
+-   [Resources](#resources)
+-   [Copyright](#copyright)
+-   [Let's Connect!](#lets-connect)
 
 #
 
 <p id="100days"><p>
 
-<a href=#100days>![#100DaysOfCode](assets/inter-100hash.png)</a>  
+<a href=#100days>![#100DaysOfCode](assets/inter-100hash.png)</a>
 
 ### Day 15: February 21, 2021
-- I made a parallax mouse mouse effect for Day 15, and it uses the <a href="http://matthew.wagerfield.com/parallax/">Parallax.js</a> engine.
 
-- The parallax effect features the character Beatrix Kiddo/The Bride from the film <a href="https://www.miramax.com/movie/kill-bill-volume-i/">Kill Bill</a>. Beatrix is portrayed by the actress <a href="https://www.imdb.com/name/nm0000235/">Uma Thurman</a>.
+-   I made a parallax mouse mouse effect for Day 15, and it uses the <a href="http://matthew.wagerfield.com/parallax/">Parallax.js</a> engine.
+
+-   The parallax effect features the character Beatrix Kiddo/The Bride from the film <a href="https://www.miramax.com/movie/kill-bill-volume-i/">Kill Bill</a>. Beatrix is portrayed by the actress <a href="https://www.imdb.com/name/nm0000235/">Uma Thurman</a>.
 
 #
 
@@ -47,10 +48,13 @@
 <a href=#installation>![Installation](assets/inter-installation.png)</a>
 
 #### Git clone and cd into the repo folder:
-``` 
-git clone git@github.com:emjose/parallax-background.git && cd parallax-background 
+
 ```
+git clone git@github.com:emjose/parallax-background.git && cd parallax-background
+```
+
 #### Run the command:
+
 ```
 open index.html
 ```
@@ -59,7 +63,7 @@ open index.html
 
 <p id="live-site"><p>
 
-<a href="https://emjose.github.io/parallax-background/">![Live Site](assets/inter-live-site.png)</a>  
+<a href="https://emjose.github.io/parallax-background/">![Live Site](assets/inter-live-site.png)</a>
 
 <a href="https://emjose.github.io/parallax-background/">![Live Site](assets/015-killbill.gif)</a>
 
@@ -67,17 +71,17 @@ open index.html
 
 <p id="resources"><p>
 
-<a href=#resources>![Resources](assets/inter-resources.png)</a>  
+<a href=#resources>![Resources](assets/inter-resources.png)</a>
 
-- #### [Background Parallax Effect Tutorial](https://youtu.be/_qQf1F1daSA) by [Animation Coding](https://www.youtube.com/channel/UCnzIhXjOKIOgB3nIdOKJshQ)
+-   #### [Background Parallax Effect Tutorial](https://youtu.be/_qQf1F1daSA) by [Animation Coding](https://www.youtube.com/channel/UCnzIhXjOKIOgB3nIdOKJshQ)
 
-- #### [Parallax.js](http://matthew.wagerfield.com/parallax/) by [Matthew Wagerfield](https://github.com/wagerfield)
+-   #### [Parallax.js](http://matthew.wagerfield.com/parallax/) by [Matthew Wagerfield](https://github.com/wagerfield)
 
-- #### [Parallax.js on Github](https://github.com/wagerfield/parallax)
+-   #### [Parallax.js on Github](https://github.com/wagerfield/parallax)
 
-- #### [Google Fonts](https://fonts.google.com/)
+-   #### [Google Fonts](https://fonts.google.com/)
 
-- #### [My blog on how I created my Github READMEs](https://emmanueljose.medium.com/readme-a-makeover-story-b9c7be37a6de?sk=7ae6623d365409d875753e4604e42ffd) 
+-   #### [My blog on how I created my Github READMEs](https://emmanueljose.medium.com/readme-a-makeover-story-b9c7be37a6de?sk=7ae6623d365409d875753e4604e42ffd)
 
 #
 
@@ -85,9 +89,8 @@ open index.html
 
 <a href=#copyright>![Copyright](assets/inter-copyright.png)</a>
 
-- This project is for made for educational purposes only. 
-  
-- All Kill Bill images and characters are copyright of <a href="https://www.miramax.com/">MIRAMAX</a>. © MIRAMAX. All Rights Reserved.
+-   This project is for made for educational purposes only.
+-   All Kill Bill images and characters are copyright of <a href="https://www.miramax.com/">MIRAMAX</a>. © MIRAMAX. All Rights Reserved.
 
 #
 
@@ -100,3 +103,5 @@ open index.html
 #
 
 <a href=#header>![Back to Top](assets/inter-congrats.png)</a>
+
+<!-- commit test -->
