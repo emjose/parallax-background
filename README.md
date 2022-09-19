@@ -29,6 +29,8 @@
 -   [Copyright](#copyright)
 -   [Let's Connect!](#lets-connect)
 
+<br>
+
 #
 
 <p id="100days"><p>
@@ -40,6 +42,8 @@
 -   I made a parallax mouse mouse effect for Day 15, and it uses the <a href="http://matthew.wagerfield.com/parallax/">Parallax.js</a> engine.
 
 -   The parallax effect features the character Beatrix Kiddo/The Bride from the film <a href="https://www.miramax.com/movie/kill-bill-volume-i/">Kill Bill</a>. Beatrix is portrayed by the actress <a href="https://www.imdb.com/name/nm0000235/">Uma Thurman</a>.
+
+<br>
 
 #
 
@@ -59,6 +63,8 @@ git clone git@github.com:emjose/parallax-background.git && cd parallax-backgroun
 open index.html
 ```
 
+<br>
+
 #
 
 <p id="live-site"><p>
@@ -66,6 +72,12 @@ open index.html
 <a href="https://emjose.github.io/parallax-background/">![Live Site](https://res.cloudinary.com/dn1e07eul/image/upload/v1659389947/Readme%20Headers/inter-live-site_ngkqcf.png)</a>
 
 <a href="https://emjose.github.io/parallax-background/">![Live Site](Assets/015-killbill.gif)</a>
+
+• **[Parallax Background](https://emjose.github.io/parallax-background/)** responds to mouse and hover movement.
+
+• **[Parallax Background](https://emjose.github.io/parallax-background/)** is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).
+
+<br>
 
 #
 
@@ -83,6 +95,8 @@ open index.html
 
 -   #### [My blog on how I created my Github READMEs](https://emmanueljose.medium.com/readme-a-makeover-story-b9c7be37a6de?sk=7ae6623d365409d875753e4604e42ffd)
 
+<br>
+
 #
 
 <p id="copyright"><p>
@@ -90,7 +104,10 @@ open index.html
 <a href=#copyright>![Copyright](https://res.cloudinary.com/dn1e07eul/image/upload/v1659391383/Readme%20Headers/inter-copyright_ax53yz.png)</a>
 
 -   This project is for made for educational purposes only.
+
 -   All Kill Bill images and characters are copyright of <a href="https://www.miramax.com/">MIRAMAX</a>. © MIRAMAX. All Rights Reserved.
+
+<br>
 
 #
 
