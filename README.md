@@ -14,7 +14,7 @@
 
 <br>
 
-<a href="https://emjose.github.io/parallax-background/">![Parallax Background](assets/preview-015-parallax-background.png)</a>
+<a href="https://emjose.github.io/parallax-background/">![Parallax Background](Assets/preview-015-parallax-background.png)</a>
 
 #
 
@@ -65,7 +65,7 @@ open index.html
 
 <a href="https://emjose.github.io/parallax-background/">![Live Site](https://res.cloudinary.com/dn1e07eul/image/upload/v1659389947/Readme%20Headers/inter-live-site_ngkqcf.png)</a>
 
-<a href="https://emjose.github.io/parallax-background/">![Live Site](assets/015-killbill.gif)</a>
+<a href="https://emjose.github.io/parallax-background/">![Live Site](Assets/015-killbill.gif)</a>
 
 #
 
