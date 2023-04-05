@@ -22,12 +22,12 @@
 
 <a href=#table-of-contents>![Table of Contents](https://res.cloudinary.com/dn1e07eul/image/upload/v1659241355/Readme%20Headers/inter-toc_euxbbw.png)</a>
 
--   [100 Days of Code](#100days)
--   [Installation](#installation)
--   [Live Site](#live-site)
--   [Resources](#resources)
--   [Copyright](#copyright)
--   [Let's Connect!](#lets-connect)
+- [100 Days of Code](#100days)
+- [Installation](#installation)
+- [Live Site](#live-site)
+- [Resources](#resources)
+- [Copyright](#copyright)
+- [Let's Connect!](#lets-connect)
 
 <br>
 
@@ -39,9 +39,9 @@
 
 ### Day 15: February 21, 2021
 
--   I made a parallax mouse mouse effect for Day 15, and it uses the <a href="http://matthew.wagerfield.com/parallax/">Parallax.js</a> engine.
+- I made a parallax mouse mouse effect for Day 15, and it uses the <a href="http://matthew.wagerfield.com/parallax/">Parallax.js</a> engine.
 
--   The parallax effect features the character Beatrix Kiddo/The Bride from the film <a href="https://www.miramax.com/movie/kill-bill-volume-i/">Kill Bill</a>. Beatrix is portrayed by the actress <a href="https://www.imdb.com/name/nm0000235/">Uma Thurman</a>.
+- The parallax effect features the character Beatrix Kiddo/The Bride from the film <a href="https://www.miramax.com/movie/kill-bill-volume-i/">Kill Bill</a>. Beatrix is portrayed by the actress <a href="https://www.imdb.com/name/nm0000235/">Uma Thurman</a>.
 
 <br>
 
@@ -85,15 +85,15 @@ open index.html
 
 <a href=#resources>![Resources](https://res.cloudinary.com/dn1e07eul/image/upload/v1659314247/Readme%20Headers/inter-resources_ncevbw.png)</a>
 
--   #### [Background Parallax Effect Tutorial](https://youtu.be/_qQf1F1daSA) by [Animation Coding](https://www.youtube.com/channel/UCnzIhXjOKIOgB3nIdOKJshQ)
+- #### [Background Parallax Effect Tutorial](https://youtu.be/_qQf1F1daSA) by [Animation Coding](https://www.youtube.com/channel/UCnzIhXjOKIOgB3nIdOKJshQ)
 
--   #### [Parallax.js](http://matthew.wagerfield.com/parallax/) by [Matthew Wagerfield](https://github.com/wagerfield)
+- #### [Parallax.js](http://matthew.wagerfield.com/parallax/) by [Matthew Wagerfield](https://github.com/wagerfield)
 
--   #### [Parallax.js on Github](https://github.com/wagerfield/parallax)
+- #### [Parallax.js on Github](https://github.com/wagerfield/parallax)
 
--   #### [Google Fonts](https://fonts.google.com/)
+- #### [Google Fonts](https://fonts.google.com/)
 
--   #### [My blog on how I created my Github READMEs](https://emmanueljose.medium.com/readme-a-makeover-story-b9c7be37a6de?sk=7ae6623d365409d875753e4604e42ffd)
+- #### [My blog on how I created my Github READMEs](https://emmanueljose.medium.com/readme-a-makeover-story-b9c7be37a6de?sk=7ae6623d365409d875753e4604e42ffd)
 
 <br>
 
@@ -103,9 +103,13 @@ open index.html
 
 <a href=#copyright>![Copyright](https://res.cloudinary.com/dn1e07eul/image/upload/v1659391383/Readme%20Headers/inter-copyright_ax53yz.png)</a>
 
--   This project is for made for educational purposes only.
+- This project is for made for educational purposes only.
 
--   All Kill Bill images and characters are copyright of <a href="https://www.miramax.com/">MIRAMAX</a>. © MIRAMAX. All Rights Reserved.
+- Background images copyright of © <a href="https://github.com/animationbro">Animation Coding / AnimationBro</a>. All Rights Reserved.
+
+- All Kill Bill images and characters are copyright of <a href="https://www.miramax.com/">MIRAMAX</a>. © MIRAMAX. All Rights Reserved.
+
+- All other visual assets of this project are copyright of © <a href="https://www.emmanuel-jose.com/">Emmanuel Jose</a>. All Rights Reserved.
 
 <br>
 
